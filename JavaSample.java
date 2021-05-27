@@ -4,6 +4,7 @@ public class HelloWorld
 	{
 	System.out.println("Hello from Jenkins Integration tool ");
 	System.out.println("Hi Faruk");
+	System.out.println("Hello from Jenkins integration with GitHub ");
 }
 
 }
